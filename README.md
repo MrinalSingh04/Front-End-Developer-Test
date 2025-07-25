@@ -33,7 +33,7 @@ To build a responsive and reusable **Product Card UI** using real-world product 
 ## 🧪 How to Run the Project
 
 ```bash
-git clone https://github.com/your-username/ecommerce-frontend-test
+git clone https://github.com/MrinalSingh04/Front-End-Developer-Test
 cd ecommerce-frontend-test
 npm install
 npm run dev
